@@ -1,1 +1,12 @@
 datasets/
+
+# Python environments
+.venv/
+__pycache__/
+*.py[cod]
+
+# PyCharm
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
